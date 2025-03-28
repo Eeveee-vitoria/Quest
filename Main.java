@@ -57,8 +57,9 @@ public class Main {
                 new String[]{" Produzir hormônios", "Filtrar o oxigênio do sangue", "Realizar a troca gasosa (oxigênio e dióxido de carbono)", "Armazenar oxigênio", "Produzir muco"}, "C");
 
         questoes[14] = new Questao("15-Qual é a principal função dos rins?",
-                new String[]{" Produzir bile", "Regular a pressão arterial", " Filtrar as toxinas do sangue e produzir urina", " Controlar os níveis de glicose", "Produzir hormônios de crescimento"}, "CD");
-
+                new String[]{" Produzir bile", "Regular a pressão arterial", " Filtrar as toxinas do sangue e produzir urina", " Controlar os níveis de glicose", "Produzir hormônios de crescimento"}, "C")
+            
+\\ onde vão ser reciocinadas as respostas 
         Scanner scanner = new Scanner(System.in);
         String respostaUsuario;
         int totalCorretas = 0;
