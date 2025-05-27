@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         new Scanner(System.in);
 
-        // Cabeçalho
+        // Cabecalho
         System.out.println("Centro Universitario Alfredo Nasser- UNIFAN");
         System.out.println("Aluno: EVELLYN VITORIA SEGUNDO PERIODO ");
         System.out.println("Professor: BRENNO PIMENTA");
