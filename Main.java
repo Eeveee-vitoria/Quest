@@ -27,7 +27,7 @@ public class Main {
                 new String[]{"Fígado", "Coração", " Rins", "Pele", " Pulmões"}, "D");
 
         questoes[4] = new Questao("5-  O que a artéria carótida abastece? ",
-                new String[]{" O cérebro", "O fígado", "O coração", "Os músculos do peito", " O sistema digestivo"}, "A");
+                new String[]{" O cérebro", "O fígado", "O coração", "Os músculos do peito", " O sistema digestivo"}, "C");
 
         questoes[5] = new Questao("6- Qual é a função principal dos glóbulos vermelhos no sangue?",
                 new String[]{" Combater infecções", "Transportar oxigênio", "Coagular o sangue", "Produzir anticorpos", " Controlar a pressão sanguínea"}, "B");
